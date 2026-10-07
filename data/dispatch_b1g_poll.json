@@ -1,0 +1,32 @@
+{
+  "source": "The Columbus Dispatch, 10th annual 2026-27 Big Ten Men's Basketball Preseason Media Poll (Adam Jardy), published Oct. 5, 2026, updated Oct. 6, 2026 7:35 a.m. ET",
+  "url": "https://www.dispatch.com/story/sports/college/basketball/2026/10/05/illinois-tops-dispatch-preseason-mens-hoops-poll-ohio-state-picked-8th/92095092007/",
+  "fetched_at": "2026-10-07T17:36:00-04:00",
+  "method": "Read via WebFetch and transcribed verbatim (a direct curl of the page got HTTP 402)",
+  "voters": 28,
+  "standings": [
+    {"rank": 1, "team": "Illinois", "points": 498, "first_place": 18},
+    {"rank": 2, "team": "Michigan State", "points": 483, "first_place": 9},
+    {"rank": 3, "team": "Michigan", "points": 436, "first_place": 1},
+    {"rank": 4, "team": "UCLA", "points": 375},
+    {"rank": 5, "team": "Nebraska", "points": 369},
+    {"rank": 6, "team": "Purdue", "points": 347},
+    {"rank": 7, "team": "USC", "points": 340},
+    {"rank": 8, "team": "Ohio State", "points": 324},
+    {"rank": 9, "team": "Indiana", "points": 292},
+    {"rank": 10, "team": "Iowa", "points": 264},
+    {"rank": 11, "team": "Wisconsin", "points": 240},
+    {"rank": 12, "team": "Maryland", "points": 203},
+    {"rank": 13, "team": "Minnesota", "points": 168},
+    {"rank": 14, "team": "Oregon", "points": 147},
+    {"rank": 15, "team": "Washington", "points": 116},
+    {"rank": 16, "team": "Northwestern", "points": 88},
+    {"rank": 17, "team": "Rutgers", "points": 68},
+    {"rank": 18, "team": "Penn State", "points": 35}
+  ],
+  "maryland_individual": [
+    {"player": "Pharrel Payne", "as_printed": "Pharrell Payne, Maryland (11)", "note": "Received 11 points in All-Big Ten voting (listed under 'Also receiving votes'; not on first or second team)"},
+    {"player": "Baba Oladotun", "as_printed": "Baba Oladotun, Maryland (1)", "note": "1 vote for Big Ten Preseason Freshman of the Year; also 1 point in All-Big Ten voting"}
+  ],
+  "headliners": {"player_of_year": "Jeremy Fears Jr., Michigan State (23 votes)", "freshman_of_year": "Anthony Thompson, Ohio State (15)", "transfer_of_year": "Stefan Vaaks, Illinois (12)"}
+}

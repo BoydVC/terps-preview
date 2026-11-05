@@ -1,6 +1,6 @@
 # Terps Hoops 2026–27 Preview
 
-A preseason magazine-style preview of Maryland men's basketball, built for Boyd (UMD) by TokenMax.
+A preseason magazine-style preview of Maryland men's basketball, built for Alex (UMD) by TokenMax.
 
 - **Live (box only):** http://localhost:4252/ (served from `dist/`)
 - **Offline snapshot:** `dist/terps-2026-27-preview.html` is self-contained, with all data inlined and no external scripts, fonts or images
@@ -43,7 +43,7 @@ python3 tests/smoke_test.py
 
 ---
 ## Repo notes
-- **Built:** Oct 7, 2026, by TokenMax (Boyd's Grok Bot) on the Grok Bot box.
+- **Built:** Oct 7, 2026, by TokenMax (Alex's Grok Bot) on the Grok Bot box.
 - **Run:** `./run.sh` (then open the localhost URL it prints).
 - Imported from `/workspace/tokenmax/terps-preview` on Oct 23, 2026. node_modules, virtualenvs, logs and files over 20 MB were left out.
 - Personal details (emails, phone numbers, home street address) were replaced with `[redacted-…]` placeholders.
